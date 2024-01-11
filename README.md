@@ -6,7 +6,7 @@ Notes :
  - Different kind of assembly for different computer architectures (CPUs)
  - Human readable abstraction of machine code
  - first assembly language invented by Kathleen Booth in 1947 for the APEC (All Purpose Electronic Computer)
- - Direct access to the bare metal hardware : Nvidia, video streams & codecs, device drivers, embedded systems
+ - Direct access and precise control to the bare metal hardware : Nvidia, (realtime) video streaming & codecs, device drivers, embedded systems
  - Deals with very low-level performance issues
  - Used to run native software in a web browser via WebAssembly
 
