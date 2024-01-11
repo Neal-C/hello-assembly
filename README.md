@@ -15,6 +15,10 @@ Notes :
 
 - Install the nasm compiler
 
+```shell
+apt-get update && apt-get install -y nasm make gcc-multilib 
+```
+
 - or try via Docker
 
 ```shell
